@@ -1,0 +1,31 @@
+Project Description: In this project, students will create a password strength checker tool using Python. The tool will evaluate the strength of a password based on specific criteria and provide feedback to the user. The project will include checkpoints to assess their progress.
+
+Checkpoint 1: User Input and Length Check
+
+- Create a Python script that prompts the user to enter a password.
+- Check if the password meets the minimum length requirement (e.g., at least 8 characters).
+- Provide appropriate feedback to the user.
+
+Checkpoint 2: Character Composition Check
+
+- Implement a check to ensure the password contains a mix of uppercase and lowercase letters.
+- Verify that the password includes at least one numeric digit.
+- Provide feedback to the user based on the results of the checks.
+
+Checkpoint 3: Special Character Check
+
+- Extend the password checker to include a check for the presence of special characters (e.g., !, @, #, $).
+- Inform the user if the password contains at least one special character.
+- Update the overall password strength feedback accordingly.
+
+Checkpoint 4: Common Password Check
+
+- Create a list of common passwords (e.g., "password," "123456") and check if the user's password is on the list.
+- Display a warning to the user if their password matches a common password.
+- Emphasize the importance of choosing a unique and secure password.
+
+Checkpoint 5: Overall Password Strength Assessment
+
+- Evaluate the overall strength of the password based on the results of the previous checks.
+- Provide a final strength assessment (e.g., weak, medium, strong) to the user.
+- Include suggestions for improving the password strength if it does not meet the desired criteria.
